@@ -15,13 +15,13 @@
 * **Rain TNT**
 * **Airstrike TNT**
 * **Mob TNT**
-* **Mob TNT**
 * **Atomic TNT**
 * **Black Hole TNT**
-* **TNT x5**
-* **TNT x20**
-* **TNT x100**
-* **TNT x500**
+* *TNT X2**
+* **TNT X5**
+* **TNT X20**
+* **TNT X100**
+* **TNT X500**
 
 ## Uranium Stuff
 
@@ -34,9 +34,10 @@ Materials:
 
 Full armor and tool set:
 
-* Helmet
-* Chestplate
-* Leggings
-* Boots
+* Sword
+* Axe
+* Pickaxe
+* Shovel
+* Hoe
 
 Provides protection like the netherite set, but with occasional explosions.
